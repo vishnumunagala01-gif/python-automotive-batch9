@@ -1,0 +1,10 @@
+students marks report
+Student: vishnu
+Maths : 32.0
+Python : 90.0
+Automata : 90.0
+ML : 90.0
+Data Analytics : 90.0
+Total Marks : 392.0
+Percentage : 78.4
+Grade : C
